@@ -1,0 +1,6 @@
+cmake==3.22.1
+dlib==19.23.0
+opencv-python==4.5.5.64
+scipy==1.7.3
+numpy==1.22.3
+Flask==2.1.1
